@@ -1,12 +1,7 @@
 ## Hey guys! 😄👋
 
-<p>👾 My name is Gabriel, I'm 19 years old and I think it's amazing to build things from scratch!</p>
-
-<ul>
-  <li>🧙‍♂️ I spend most of my time developing and studying react.</li>
-  <li>👨‍🎓 I'm currently studying Front-End web development at Flit Education.</li>
-  <li>🚀 I'm very focused on improving my knowledge and building a good portfolio with React.</li>
-</ul>
+<p>I'm a Software Engineer. My specialty is developing Android and iOS Mobile Apps with React Native.
+I also have knowledge with Web development.</p>
 
 <h2>Languages and Tools:</h2>
 <div>
